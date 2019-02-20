@@ -1,4 +1,4 @@
-# Slack Community Analysis Tool (SCAT)
+# Slack Community Analysis Tool
 [![Build Status](https://travis-ci.org/DeveloperCAP/SCAT.svg?branch=master)](https://travis-ci.org/DeveloperCAP/SCAT) [![Maintainability](https://api.codeclimate.com/v1/badges/c381c82bc393e363ff1d/maintainability)](https://codeclimate.com/github/DeveloperCAP/SCAT/maintainability) [![codecov](https://codecov.io/gh/DeveloperCAP/SCAT/branch/master/graph/badge.svg)](https://codecov.io/gh/DeveloperCAP/SCAT) <br>
 
 **Note:** *Work on this project is on hiatus in favour of the Mailing List Community Analysis Toolkit (MLCAT). Check it out: https://github.com/DeveloperCAP/MLCAT! We plan to adapt modules from MLCAT here in the coming weeks.*
